@@ -5,7 +5,7 @@
 
 - 💻 I work with **MERN Stack (MongoDB, Express.js, React, Node.js)**
 
-- 📫 You can reach me at **jagritu123@gmail.com**
+- 📫 You can reach me at **jagritiahir822@gmail.com**
 - ⚡ Fun fact: I love solving problems and learning new tech daily!
 
 ---
@@ -35,7 +35,7 @@
 ---
 
 ### 📫 Contact Me
-📧 Email: jagrituahir822@gmail.com  
+📧 Email: jagrutiahir822@gmail.com  
 🌐 GitHub: [jagruti2025](https://github.com/jagruti2025)
 
 ---
